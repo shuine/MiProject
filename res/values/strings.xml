@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <!-- network error-->
+    <string name="network_errortip_noconnection">当前网络不可用，请检查网络设置</string>
+    <string name="network_errorbtntip_noconnection">查看网络设置</string>
+    <string name="network_errortip_server">服务器出错，请稍后重试</string>
+    <string name="network_errorbtntip_server">重试一下</string>
+    <string name="network_errortip_timeout">网络连接超时，请稍后重试</string>
+    <string name="network_errorbtntip_timeout">重试一下</string>
+    <string name="network_errortip_parse">数据出错，请稍后重试</string>
+    <string name="network_errorbtntip_parse">重试一下</string>
+    <string name="network_errortip_unknow">努力修复中</string>
+    <string name="network_errorbtntip_unknow">重试一下</string>
+    <string name="network_errortip_custom">自定义错误</string>
+    <string name="network_errorbtntip_custom">重试一下</string>
+    <string name="network_errortip_login">亲，请先登录~</string>
+    <string name="network_errorbtntip_login">登录</string>
+</resources>
